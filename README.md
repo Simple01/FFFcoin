@@ -1,6 +1,4 @@
-# FFFcoin
-FFFcoin specifications
-
+# FFFcoin specifications
 Algorithm	-	sha256
 
 Halving	-	4444 blocks
