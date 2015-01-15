@@ -1,0 +1,2 @@
+# FFFcoin
+FFFcoin files
