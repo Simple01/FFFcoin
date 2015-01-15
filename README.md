@@ -13,5 +13,5 @@ Coinbase maturity	-	44 blocks
 
 Premine	-	0 %
 
-Max coinbase	-	39498272
+Max coinbase	-	39,498,272 coins
 
