@@ -1,5 +1,6 @@
 # FFFcoin
 FFFcoin specifications
+
 Algorithm	-	sha256
 Halving	-	4444 blocks
 Initial coins per block	-	4444 coins
