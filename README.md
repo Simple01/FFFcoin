@@ -15,3 +15,4 @@ Premine	-	0 %
 
 Max coinbase	-	39,498,272 coins
 
+addnote = 188.226.150.15
